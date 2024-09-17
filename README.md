@@ -36,8 +36,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
 3. Inicie o json-server
    ```bash
-   cd src
-   cd Database
+   cd src/Database
    npx json-server -w server.json
 
 4. Inicie o servidor de desenvolvimento:
