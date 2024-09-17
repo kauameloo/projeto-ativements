@@ -1,0 +1,55 @@
+{
+  "locais": [
+    {
+      "id": "1",
+      "nome": "sala 19"
+    },
+    {
+      "id": "2",
+      "nome": "sala 20"
+    },
+    {
+      "id": "fd32ffaf-4e3d-46a9-b66a-cfe8c4712365",
+      "nome": "coworking"
+    }
+  ],
+  "ativos": [
+    {
+      "id": "40bb6bfd-fa31-4bc5-84ef-1c705ca15808",
+      "nome": "mesa",
+      "numero": "45543",
+      "local": "fd32ffaf-4e3d-46a9-b66a-cfe8c4712365",
+      "dataRegistro": "9/12/2024, 2:39:22 PM",
+      "usuario_id": "cf76aaa8-a4b9-44b2-a0f6-0d0eea138476",
+      "status": true
+    },
+    {
+      "id": "b0ae70b2-265c-4120-866d-a779334ba262",
+      "nome": "mesasss",
+      "numero": "1234561",
+      "local": "fd32ffaf-4e3d-46a9-b66a-cfe8c4712365",
+      "dataRegistro": "9/12/2024, 4:47:03 PM",
+      "usuario_id": "cf76aaa8-a4b9-44b2-a0f6-0d0eea138476",
+      "status": true,
+      "dataAlteracao": "9/12/2024, 5:17:53 PM",
+      "usuarioAlteracao": "cf76aaa8-a4b9-44b2-a0f6-0d0eea138476"
+    },
+    {
+      "id": "8a2da1ba-ae46-450a-876b-1dd8691948a7",
+      "nome": "mesasssss",
+      "numero": "1234562",
+      "local": "6bc02733-478f-4a1a-8129-6d4154357906",
+      "dataRegistro": "9/12/2024, 4:47:33 PM",
+      "usuario_id": "cf76aaa8-a4b9-44b2-a0f6-0d0eea138476",
+      "status": true
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "cf76aaa8-a4b9-44b2-a0f6-0d0eea138476",
+      "login": "kauameloo",
+      "image": "https://avatars.githubusercontent.com/u/90994025?v=4",
+      "ultimoAcesso": "9/11/2024, 2:42:50 PM"
+    }
+  ]
+}
