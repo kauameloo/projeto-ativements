@@ -24,4 +24,4 @@ yarn-error.log*
 
 # Omitindo a chave de acesso da api
 
-# /src/Utils
+/src/Utils
